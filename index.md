@@ -86,7 +86,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
         1. an External Affairs Officer, 
         1. an Environment Officer
         1. at most four Social Secretaries, 
-        1. a Women’s Officer,
+        1. a Women*s Officer,
         1. an Ethnic Minorities & Racial Equality Officer, 
         1. an LGBTQ+ Officer,
         1. an International Students’ Officer,
@@ -172,7 +172,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
         1.  Lead in delegating tasks in the running of events;
         1.  Inform the WCR about events external to the College.
 
-    1. The Women’s Officer’s duties shall include:
+    1. The Women*s Officer’s duties shall include:
         1.  Promoting the interests and welfare of female and transfeminine members of the WCR
         1.  Raising awareness of issues concerning women and gender equality and justice within the WCR
         1.  Collaborating with the JCR on college-wide awareness and policy campaigns
