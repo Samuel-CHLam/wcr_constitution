@@ -77,9 +77,27 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
 
 1. Committee
-    1.  There shall be a Committee consisting of a President, a Vice-President who shall also be the Treasurer, a Secretary, one or two Diversity, Equality, and Welfare Officers, an External Affairs Officer, an Environment Officer, and three or four Social Secretaries, a Women’s Officer; an Ethnic Minorities & Racial Equality Officer; an LGBTQ+ Officer; an International Students’ Officer; a Mature Students & Families Officer; and a Students with Disabilities & Accessibility Officer
+    1.  There shall be a Committee consisting of 
+        1. a President, 
+        1. a Vice-President,
+        1. a Treasurer, 
+        1. a Secretary, 
+        1. at most two Diversity, Equality, and Welfare Officers, 
+        1. an External Affairs Officer, 
+        1. an Environment Officer
+        1. at most four Social Secretaries, 
+        1. a Women’s Officer,
+        1. an Ethnic Minorities & Racial Equality Officer, 
+        1. an LGBTQ+ Officer,
+        1. an International Students’ Officer,
+        1. a Mature Students & Families Officer, and 
+        1. a Students with Disabilities & Accessibility Officer.
 
-    1.  The positions of Women’s Officer, Ethnic Minorities & Racial Equality Officer, LGBTQ+ Officer, International Students’ Officer, Mature Students & Families Officer, and Students with Disabilities & Accessibility Officer, may be held in conjunction with another Committee position, including each other, except for the positions of President and Vice-President/Treasurer.
+    1.  A WCR member may hold more than one Committee positions as listed in Section 4.1, with the following exceptions.
+        1.  The President may not hold any other Committee positions. Should a WCR member be elected as the President, the member must resign from any further positions the member is elected into.
+        1.  The Vice-President may also hold the position of Treasurer, but not any other Committee positions. Should a WCR member be elected as the Vice-President, the member must resign from any further positions (other than the position of Treasurer) the member is elected into.
+        1.  The Secretary may also hold the position of Treasurer, but not any other Committee positions. Should a WCR member be elected as the Secretary, the member must resign from any further positions (other than the position of Treasurer) the member is elected into.
+        1. The Treasurer may also hold the position of either Vice-President or Secretary (but not both), and not any other Committee positions. Should a WCR member be elected as the Treasurer, the member must resign from any further positions (other than Vice-President or  the Secretary) the member is elected into. The WCR member must also resign from the position of Secretary if the member has already been elected to both the positions of Vice-President and Treasurer.
 
     1.  The Committee shall be responsible for the running of the WCR between General Meetings. Decisions of General Meetings shall be binding on the Committee. The Committee shall not have the power to alter this Constitution or its associated Standing Orders.
 
@@ -91,9 +109,9 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
     1.  Any full member of the WCR may attend any Committee Meeting, but only Committee members shall have the right to vote.
 
-    1.  The quorum for Committee Meetings shall be four members of the Committee one of whom must be the President or Vice-President/Treasurer.
+    1.  The quorum for Committee Meetings shall be four members of the Committee one of whom must be the President or Vice-President.
 
-    1.  Committee Meetings shall be chaired by the President unless he or she is absent or unable to do so in which case the Vice-President/Treasurer shall take the Chair.
+    1.  Committee Meetings shall be chaired by the President unless he or she is absent or unable to do so in which case the Vice-President shall take the Chair.
 
     1. Decisions of Committee Meetings shall be taken by simple majority vote. In the event of a tie the Chairperson shall have a casting vote. If there is a tie and the Chairperson chooses not to exercise his or her casting vote the motion, amendment or procedural motion being voted on is lost.
 
@@ -113,11 +131,14 @@ Members who wish to modify the Constitution should follow the procedure as outli
         1.  representing the WCR on College committees; and
         1.  representing the WCR at meetings of Oxford University Student Union (Oxford SU) Council and the MCR Presidents’ Committee (PresCom).
 
-    1.  The Vice-President/Treasurer's duties shall include:
-        1.  taking overall responsibility for the day-to-day running of the financial affairs of the WCR in accordance with section 9; 
+    1.  The Vice-President's duties shall include:
         1.  representing the WCR on all appropriate College committees;
         1.  deputising for the President if the President is unable to carry out his or her duties; and
         1.  administering, together with the Diversity, Equality, and Welfare Officers, the WCR hardship fund.
+
+    1.  The Treasurer’s duties shall include:
+        1. taking overall responsibility for the day-to-day running of the financial affairs of the WCR in accordance with section 9; and
+        1. presenting the Committee with a budget at the beginning of Michaelmas.
 
     1.  The Secretary's duties shall include:
         1.  taking minutes at all General Meetings and Committee Meetings of the WCR;
@@ -208,7 +229,10 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
     1.  The President must call an Extraordinary General Meeting if a written request for such a meeting signed by fifteen full members of the WCR is submitted to him or her between Monday of nought week and Friday of seventh week in any term. The meeting shall be held no less than three days but no more than six days after the request is submitted. The Secretary shall ensure that within three days of the request being submitted to him or her all full members are notified of the meeting and notification is posted on the WCR noticeboard.
 
-    1.  If the position of President is vacant the holder of the first non-vacant committee position in the following order of priority - Vice-President/Treasurer, Secretary - shall have the duties assigned to the President.
+    1.  If the position of President is vacant the holder of the first non-vacant committee position in the following order of priority shall have the duties assigned to the President:
+        1.  Vice-President,
+        1.  Treasurer, then
+        1.  Secretary.
 
     1.  If all the Committee positions are vacant a General Meeting may be called by the Dean of Graduates of University College provided that notification is placed on the WCR noticeboard a week in advance. Further notification may be issued at the discretion of the Dean of Graduates. The meeting shall not start unless it is opened by a Chairperson the Dean of Graduates has appointed from among the full members of the WCR.
 
@@ -283,8 +307,8 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
 1.  Finance
     1.  All major items of expenditure must be approved by a General Meeting. The Treasurer will decide what constitutes a major expenditure.
-    1.  The Vice-President/Treasurer shall produce an annual budget for approval by a General Meeting during Michaelmas Term and approval by the Governing Body of the College.
-    1.  Following the end of each financial year the Vice-President/Treasurer shall publish a financial report, present it to a General Meeting and make it available to the Governing Body of the College. The report shall include receipts and expenditures during that year and must contain a list of all external organisations to which the WCR has made donations and details of those donations. It shall also include a balance sheet reflecting the position of the WCR accounts at the end of the financial year concerned.
+    1.  The Treasurer shall produce an annual budget for approval by a General Meeting during Michaelmas Term and approval by the Governing Body of the College.
+    1.  Following the end of each financial year the Treasurer shall publish a financial report, present it to a General Meeting and make it available to the Governing Body of the College. The report shall include receipts and expenditures during that year and must contain a list of all external organisations to which the WCR has made donations and details of those donations. It shall also include a balance sheet reflecting the position of the WCR accounts at the end of the financial year concerned.
     1.  The WCR may include in its budget a sum dedicated to charitable donations, not to exceed £500 per academic year. The allocation of such funds shall follow the guidelines set in the WCR Charity policy. The WCR Charity policy is included as a schedule to the Constitution and can be amended through a motion passed in any Ordinary General Meeting.
 
 1.  Complaints
