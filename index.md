@@ -32,6 +32,10 @@ ol ol li {
 ol li ol li ol li:before {
   content: counter(item, lower-alpha) ".";
 }
+
+ol li ol li ol li ol li:before {
+  content: "(" counter(item, lower-roman) ")";
+}
 </style>
 
 <p>
@@ -77,9 +81,9 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
 
 1. Committee
-    1.  There shall be a Committee consisting of a President, a Vice-President who shall also be the Treasurer, a Secretary, one or two Diversity, Equality, and Welfare Officers, an External Affairs Officer, an Environment Officer, and three or four Social Secretaries, a Women’s Officer; an Ethnic Minorities & Racial Equality Officer; an LGBTQ+ Officer; an International Students’ Officer; a Mature Students & Families Officer; and a Students with Disabilities & Accessibility Officer
+    1.  There shall be a Committee consisting of a President, a Vice-President who shall also be the Treasurer, a Secretary, one or two Diversity, Equality, and Welfare Officers, an External Affairs Officer, an Environment Officer, and three or four Social Secretaries, a Women’s Officer; an Ethnic Minorities & Racial Equality Officer; an LGBTQ+ Officer; an International Students’ Officer; a Mature Students & Families Officer; a Students with Disabilities & Accessibility Officer, and a Webmaster.
 
-    1.  The positions of Women’s Officer, Ethnic Minorities & Racial Equality Officer, LGBTQ+ Officer, International Students’ Officer, Mature Students & Families Officer, and Students with Disabilities & Accessibility Officer, may be held in conjunction with another Committee position, including each other, except for the positions of President and Vice-President/Treasurer.
+    1.  The positions of Women’s Officer, Ethnic Minorities & Racial Equality Officer, LGBTQ+ Officer, International Students’ Officer, Mature Students & Families Officer, Students with Disabilities & Accessibility Officer, and Webmaster, may be held in conjunction with another Committee position, including each other, except for the positions of President and Vice-President/Treasurer.
 
     1.  The Committee shall be responsible for the running of the WCR between General Meetings. Decisions of General Meetings shall be binding on the Committee. The Committee shall not have the power to alter this Constitution or its associated Standing Orders.
 
@@ -122,7 +126,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
     1.  The Secretary's duties shall include:
         1.  taking minutes at all General Meetings and Committee Meetings of the WCR;
         1.  maintaining an up-to-date version of this Constitution and its associated Standing Orders and ensuring that it is available for inspection in the College Office; 
-        1.  managing the WCR website; and calling and chairing all General Meetings of the WCR in conjunction with the president.
+        1.  the duties of the Webmaster as set out in Section 5.16 should the position of the Webmaster is not filled.
 
     1.  The Diversity, Equality, and Welfare Officers' duties shall include:
         1.  representing the WCR on all appropriate College committees;
@@ -197,6 +201,28 @@ Members who wish to modify the Constitution should follow the procedure as outli
         1. liaising, at their discretion, with Oxford SU’s Oxford Students Disability Campaign and the Oxford Accessibility Project
         1. liaising with the College on matters arising
         1. to sit on the WCR’s Welfare Sub-Committee
+    
+    1. The Webmaster's duties shall include:
+        1. maintaining and developing the WCR website, ensuring the WCR website contains accurate and up-to-date information, as well as complying with the current accessibility, data Privacy and college branding standards;
+        1. maintaining a documentation for the maintanence of the WCR website;
+        1. delegate access of parts or all of the source codes, content management system and the hosting server to any appropriate College members and officers in accordance with the Website Documentation;
+        1. promote the usage of the website by the College members;
+        1. add features requested by the WCR Committee to the WCR website, or work with the WCR Committee to find a compromise that can be implemented should a suggested feature is unfeasible;
+        1. liaise with the College IT Office about matters arising from the hosting of the WCR Website;
+        1. liaise with the College Digital Communication Office to improve the College's online presence; and
+        1. before the end of any hosting agreements for the WCR website, compare the current hosting arrangement with alternatives, including those provided by the College or University. If a better arrangement is found, they should inform the WCR Committee of the reasoning behind the change and the new cost incurred, then, subject to the WCR Committee approval, change providers whilst minimising downtime of the WCR website. If providers are changed, the Webmaster must ensure that the old WCR website is no longer active.
+        1. In this section -- 
+            <p>
+            "College members and officers" means 
+                <ol>
+                    <li>the Master, Fellows, undergraduate and graduate students and any other persons of the College admitted in accordance with the College Statutes and Regulations, and</li>
+                    <li>the College Officers of the College appointed in accordance with the College Statues and Regulations.</li>
+                </ol>
+            </p>
+            <p>
+            "Website Documentation" means the documentation maintained in accordance with Subsection 5.16(b).
+            </p>
+            
 
 1.  General Meetings
     1.  The President or Secretary shall call at least two Ordinary General Meetings per year. The first Ordinary General Meeting shall be held during Michaelmas Term each year.
