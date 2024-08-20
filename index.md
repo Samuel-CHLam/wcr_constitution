@@ -125,9 +125,8 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
     1.  The Diversity, Equality, and Welfare Officers' duties shall include:
         1.  representing the WCR on all appropriate College committees;
-        1.  dealing with matters relating to the welfare of individual WCR members;
+        1.  dealing with matters relating to the welfare of individual WCR members; and
         1.  taking a leading and proactive role in making University College, and in particular the University College WCR, a place where all students feel welcome and at home, irrespective of personal characteristics including; gender, race, religion, nationality, citizenship, sexual orientation, or ethnic, national, or social origins.
-        1.  to organize and chair a welfare sub-committee that will meet at least once a term
 
     1.  The External Affairs Officer's duties shall include:
         1.  representing the WCR at meetings of the Oxford University Student Union (Oxford SU) Graduate Committee;
@@ -152,49 +151,43 @@ Members who wish to modify the Constitution should follow the procedure as outli
         1.  Promoting the interests and welfare of female and transfeminine members of the WCR
         1.  Raising awareness of issues concerning women and gender equality and justice within the WCR
         1.  Collaborating with the JCR on college-wide awareness and policy campaigns
-        1.  Liaising, at their discretion, with the Oxford SU Women’s campaign on university-wide awareness and policy campaigns
-        1.  Liaising with the College on matters arising
-        1.  To sit on the WCR’s Welfare SubCommittee
+        1.  Liaising, at their discretion, with the Oxford SU Women’s campaign on university-wide awareness and policy campaigns; and
+        1.  Liaising with the College on matters arising.
 
     1. The Ethnic Minorities & Racial Equality Officer’s duties shall include:
         1.  Promoting the interests and welfare of black, minority ethnic, and visible minority members of the WCR
         1.  raising awareness of issues concerning people of colour, ethnic minorities, visible minorities and racial equality and justice within the WCR
         1.  collaborating with the JCR on college-wide awareness and policy campaigns
-        1.  liaising, at their discretion, with the Oxford SU Campaign for Racial Awareness and Equality
-        1.  liaising with the College on matters arising
-        1.  to sit on the WCR’s Welfare Sub-Committee
+        1.  liaising, at their discretion, with the Oxford SU Campaign for Racial Awareness and Equality; and
+        1.  liaising with the College on matters arising.
 
     1. The LGBTQ+ Officer’s duties shall include:
         1.  promoting the interests and welfare of LGBTQ+ members of the WCR
         1.  raising awareness of issues concerning LGBTQ+ people, gender and sexual diversity, and LGBTQ+ justice and equality within the WCR
         1.  collaborating with the JCR on college-wide awareness and policy campaigns
-        1.  liaising, at their discretion, with the Oxford SU LGBTQ+ Campaign
-        1.  liaising with the College on matters arising
-        1.  to sit on the WCR’s Welfare Sub-Committee
+        1.  liaising, at their discretion, with the Oxford SU LGBTQ+ Campaign; and
+        1.  liaising with the College on matters arising.
 
     1. The International Students’ Officer’s duties shall include:
         1.  promoting the interests and welfare of international members of the WCR
         1.  raising awareness of issues concerning international students within the WCR
         1.  collaborating with the JCR on college-wide awareness and policy campaigns
-        1.  liaising, at their discretion, with the Oxford SU International Students’ Campaign
-        1.  liaising with the College on matters arising
-        1.  to sit on the WCR’s Welfare Sub-Committee
+        1.  liaising, at their discretion, with the Oxford SU International Students’ Campaign; and
+        1.  liaising with the College on matters arising.
 
     1. The Mature Students & Families Officer’s duties shall include:
         1.  promoting the interests and welfare of mature members of the WCR
         1.  promoting the interests and welfare of members of the WCR with children
         1.  raising awareness of issues concerning families and mature students within the WCR
-        1. liaising, at their discretion, with Oxford SU’s ‘STUDENTSplus’ group
-        1. liaising with the College on matters arising
-        1. to sit on the WCR’s Welfare Sub-Committee
+        1. liaising, at their discretion, with Oxford SU’s ‘STUDENTSplus’ group; and
+        1. liaising with the College on matters arising.
 
     1. The Students with Disabilities & Accessibility Officer’s duties shall include:
         1. promoting the interests and welfare of members of the WCR with disabilities 
         1. raising awareness of issues concerning disabilities and accessibility within the WCR
         1. collaborating with the JCR on college-wide awareness and policy campaigns 
-        1. liaising, at their discretion, with Oxford SU’s Oxford Students Disability Campaign and the Oxford Accessibility Project
-        1. liaising with the College on matters arising
-        1. to sit on the WCR’s Welfare Sub-Committee
+        1. liaising, at their discretion, with Oxford SU’s Oxford Students Disability Campaign and the Oxford Accessibility Project; and
+        1. liaising with the College on matters arising.
 
 1.  General Meetings
     1.  The President or Secretary shall call at least two Ordinary General Meetings per year. The first Ordinary General Meeting shall be held during Michaelmas Term each year.
@@ -293,9 +286,6 @@ Members who wish to modify the Constitution should follow the procedure as outli
 1.  Amendments to this Constitution or to Standing Orders
     1.  Amendments to this Constitution or to its associated Standing Orders shall be made if and only if they receive a two-thirds majority of those present and voting at a General Meeting.
     1.  Any amendment to this Constitution or to its associated Standing Orders must be submitted in writing to the Secretary at least three days in advance of the General Meeting at which it is to be proposed along with the names of the proposer and seconder (who must both be full members) and must specify the words to be deleted, inserted and/or substituted. The Secretary shall inform the WCR as soon as possible after they are submitted.
-
-1.  Sub-Committees
-    1.  There is to be a welfare sub-committee which meets at least once a term, to be chaired by the Diversity, Equality, and Welfare Officers and to be attended by any full member of the WCR.
 
 # Standing Order
 1.  Agenda
