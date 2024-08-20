@@ -77,7 +77,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
 
 
 1. Committee
-    1.  There shall be a Committee consisting of 
+    1.  There shall be a Committee of full members of the WCR. The Committee consists of the following positions:
         1. a President, 
         1. a Vice-President,
         1. a Treasurer, 
