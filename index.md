@@ -109,7 +109,7 @@ Members who wish to modify the Constitution should follow the procedure as outli
     1.  Honorary membership may be withdrawn if withdrawal is supported by a two-thirds majority of those present and voting at any General Meeting provided that the notification of the meeting required by this Constitution indicates that the matter will be an agenda item and provided that the honorary member or members affected have been invited to attend the meeting.
 
 
-1. Committee
+1. <a id="committee">Committee</a>
     1.  There shall be a Committee of full members of the WCR. The Committee consists of the following positions:
         1. a President, 
         1. a Vice-President,
