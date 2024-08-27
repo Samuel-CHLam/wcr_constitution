@@ -70,7 +70,6 @@ Members who wish to modify the Constitution should follow the procedure as outli
 1. [Complaints](#complaints)
 1. [Interpretation](#interpretation)
 1. [Amendments to this Constitution or to Standing Orders](#amendments-to-this-constitution-or-to-standing-orders)
-1. [Sub-committees](#sub-committees)
 
 **[Standing Order](#standing-order)**
 1. [Agenda](#agenda)
